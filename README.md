@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Hadoop**
 
 - 💬 Ask me about **name: Soni Jaiswal
-- located_in: Delhi,India
+- located_in: kathmandu, Nepal
 - current_job: Front-end Devloper
 - education:
 -  [
